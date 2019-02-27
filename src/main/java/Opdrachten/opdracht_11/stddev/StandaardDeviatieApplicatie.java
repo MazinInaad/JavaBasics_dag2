@@ -14,7 +14,7 @@ public class StandaardDeviatieApplicatie {
 		double resultaat = 0;
 		for (int i = 0; i < waarden.length; i++) {
 	        double delta = waarden[i] - gemiddelde;
-	        i = 0; gemiddelde = gemiddelde + delta/(i+1);
+	        gemiddelde = gemiddelde + delta/(i+1);
 	        resultaat = delta*(waarden[i] - gemiddelde);
 		}
 		resultaat = resultaat/waarden.length;
