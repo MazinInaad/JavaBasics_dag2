@@ -1,4 +1,4 @@
-package emails.sender;
+package Voorbeelden.emails.sender;
 
 /**
  * E-mail template met onderwerp en body

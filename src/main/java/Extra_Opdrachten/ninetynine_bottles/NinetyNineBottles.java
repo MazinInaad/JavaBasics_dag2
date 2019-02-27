@@ -1,4 +1,4 @@
-package ninetynine_bottles;
+package Extra_Opdrachten.ninetynine_bottles;
 
 public class NinetyNineBottles {
 

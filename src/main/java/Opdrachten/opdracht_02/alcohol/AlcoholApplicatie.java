@@ -1,4 +1,4 @@
-package opdracht_02.alcohol;
+package Opdrachten.opdracht_02.alcohol;
 
 public class AlcoholApplicatie {
 

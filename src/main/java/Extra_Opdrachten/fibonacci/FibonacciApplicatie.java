@@ -1,4 +1,4 @@
-package fibonacci;
+package Extra_Opdrachten.fibonacci;
 
 public class FibonacciApplicatie {
 

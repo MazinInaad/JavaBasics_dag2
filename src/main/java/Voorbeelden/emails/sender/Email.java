@@ -1,4 +1,4 @@
-package emails.sender;
+package Voorbeelden.emails.sender;
 
 /**
  * Deze class beschrijft 1 e-mail object. Deze voert geen validate uit over de

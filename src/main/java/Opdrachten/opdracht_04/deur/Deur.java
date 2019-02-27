@@ -1,4 +1,4 @@
-package opdracht_04.deur;
+package Opdrachten.opdracht_04.deur;
 
 
 import java.awt.Color; // Geef aan dat de deur klasse Color objecten gaat gebruiken

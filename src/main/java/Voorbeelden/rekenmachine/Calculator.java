@@ -1,4 +1,4 @@
-package rekenmachine;
+package Voorbeelden.rekenmachine;
 
 public class Calculator {
 

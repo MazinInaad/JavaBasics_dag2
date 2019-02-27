@@ -1,4 +1,4 @@
-package array_met_2_dimensies.ui;
+package Voorbeelden.array_met_2_dimensies.ui;
 
 import java.awt.BorderLayout;
 

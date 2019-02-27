@@ -1,4 +1,4 @@
-package grote_array;
+package Extra_Opdrachten.grote_array;
 
 import java.util.Random;
 

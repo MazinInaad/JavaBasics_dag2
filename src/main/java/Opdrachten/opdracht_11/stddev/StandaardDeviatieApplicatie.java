@@ -1,4 +1,4 @@
-package opdracht_11.stddev;
+package Opdrachten.opdracht_11.stddev;
 
 public class StandaardDeviatieApplicatie {
 

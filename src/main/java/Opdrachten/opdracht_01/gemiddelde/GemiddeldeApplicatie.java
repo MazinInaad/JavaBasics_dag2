@@ -1,4 +1,4 @@
-package opdracht_01.gemiddelde;
+package Opdrachten.opdracht_01.gemiddelde;
 
 public class GemiddeldeApplicatie {
 

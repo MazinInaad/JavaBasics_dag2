@@ -1,4 +1,4 @@
-package opdracht_08.strings;
+package Opdrachten.opdracht_08.strings;
 
 public class StringMethodsApplicatie {
 

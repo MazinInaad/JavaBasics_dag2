@@ -1,4 +1,4 @@
-package combinatie;
+package Extra_Opdrachten.combinatie;
 
 public class ArraySplitsenApplicatie {
 

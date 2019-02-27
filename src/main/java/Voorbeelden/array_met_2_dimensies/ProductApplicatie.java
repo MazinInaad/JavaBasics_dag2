@@ -1,6 +1,6 @@
-package array_met_2_dimensies;
+package Voorbeelden.array_met_2_dimensies;
 
-import array_met_2_dimensies.ui.TabelVenser;
+import Voorbeelden.array_met_2_dimensies.ui.TabelVenser;
 
 public class ProductApplicatie {
 

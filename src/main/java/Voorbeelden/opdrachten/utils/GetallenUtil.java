@@ -1,4 +1,4 @@
-package opdrachten.utils;
+package Voorbeelden.opdrachten.utils;
 
 import java.util.Random;
 

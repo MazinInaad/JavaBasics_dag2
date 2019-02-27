@@ -1,6 +1,7 @@
-package rekenmachine;
+package Voorbeelden.rekenmachine;
 
-import rekenmachine.calculator.ui.CalculatorWindow;
+
+import Voorbeelden.rekenmachine.calculator.ui.CalculatorWindow;
 
 public class CalculatorApplication {
 

@@ -1,4 +1,4 @@
-package emails.sender;
+package Voorbeelden.emails.sender;
 
 /**
  * Deze class verstuurt e-mails via de opgegeven server met het opgegeven van-adres.

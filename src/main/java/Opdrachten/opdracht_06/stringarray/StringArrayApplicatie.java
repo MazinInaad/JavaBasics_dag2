@@ -1,4 +1,4 @@
-package opdracht_06.stringarray;
+package Opdrachten.opdracht_06.stringarray;
 
 public class StringArrayApplicatie {
 

@@ -1,4 +1,4 @@
-package opdracht_04.deur;
+package Opdrachten.opdracht_04.deur;
 
 public class Huis {
 

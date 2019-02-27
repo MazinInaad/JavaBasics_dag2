@@ -1,7 +1,8 @@
-package opdracht_10.emails;
+package Opdrachten.opdracht_10.emails;
 
-import emails.sender.EMailTemplate;
-import emails.sender.EmailSender;
+
+import Voorbeelden.emails.sender.EMailTemplate;
+import Voorbeelden.emails.sender.EmailSender;
 
 public class EmailApplication {
 
