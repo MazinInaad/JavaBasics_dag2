@@ -16,21 +16,21 @@ public class Huis {
 	public static void main(String[] args) {
 		Deur voordeur = new Deur("Voordeur", 200, 85);
 		System.out.println("De voordeur is nu " + voordeur.isOpen());
-		voordeur.openMetHoek(45);
+//		voordeur.openMetHoek(45);
 		toonDeurStatus(voordeur);
-		voordeur.openMetHoek(125);
+//		voordeur.openMetHoek(125);
 		toonDeurStatus(voordeur);
 
 		Deur garagedeur = new Deur("Garagedeur", 250, 350);
-		garagedeur.openMetHoek(89);
+//		garagedeur.openMetHoek(89);
 		toonDeurStatus(garagedeur);
-		garagedeur.openMetHoek(0);
+//		garagedeur.openMetHoek(0);
 		toonDeurStatus(garagedeur);
 
 		Deur achterdeur = new Deur("Achterdeur", 200, 85);
-		achterdeur.openMetHoek(-10);
+//		achterdeur.openMetHoek(-10);
 		toonDeurStatus(achterdeur);
-		achterdeur.openMetHoek(1);
+//		achterdeur.openMetHoek(1);
 		toonDeurStatus(achterdeur);
 
 		Deur dakraam = new Deur("Dakraam", 40, 60);
