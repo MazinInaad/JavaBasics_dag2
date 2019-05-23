@@ -94,7 +94,8 @@ public class Deur { // Dit is het begin van een class
 	 * te doen.
 	 */
 	public void sluit() {
-		openMetHoek(0.0, false);
+		deurIsOpen = false;
+		openingshoek = 0;
 	}
 
 	/**
