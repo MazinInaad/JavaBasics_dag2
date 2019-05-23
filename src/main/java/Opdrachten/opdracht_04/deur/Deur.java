@@ -29,12 +29,9 @@ public class Deur { // Dit is het begin van een class
 	 * begint gesloten. De hoogte en breedte krijgen bij het maken van het
 	 * object een waarde en kunnen daarna niet meer veranderen.
 	 * 
-	 * @param deurType
-	 *            Beschrijving van het deurtype
-	 * @param hoogte
-	 *            hoogte van de deur
-	 * @param breedte
-	 *            breedte van de deur
+	 * @param deurType Beschrijving van het deurtype
+	 * @param nieuweHoogte hoogte van de deur
+	 * @param nieuweBreedte breedte van de deur
 	 */
 	public Deur(String deurType, int nieuweHoogte, int nieuweBreedte) {
 		hoogte = nieuweHoogte;
@@ -110,8 +107,8 @@ public class Deur { // Dit is het begin van een class
 	 * @param hoek
 	 *            hoek waaronder deze deur gezet wordt. 0 is gesloten en 90 is
 	 *            volledige open.
-	 * @param deurIsOpen
-	 *            de nieuwe status van deze deur.
+	 * @param nieuweStatus
+	 * 			  de nieuwe status van deze deur.
 	 */
 	public void openMetHoek(double hoek, boolean nieuweStatus) {
 		deurIsOpen = nieuweStatus;
@@ -153,7 +150,7 @@ public class Deur { // Dit is het begin van een class
 	/**
 	 * Met deze methode is het mogelijk om de kleur van deze deur te veranderen.
 	 * 
-	 * @param Nieuwe kleur van deze deur
+	 * @param kleur nieuwe kleur van deze deur
 	 */
 	public void beschilder(Color kleur) {
 		this.kleur = kleur;
